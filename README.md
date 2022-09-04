@@ -1,1 +1,1 @@
-# Svelte Basic Application in Javaacript, HTML, CSS
+# Svelte Basic Application in Javascript, HTML, CSS
